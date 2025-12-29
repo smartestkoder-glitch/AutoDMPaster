@@ -12,6 +12,26 @@ const autoDM = {
     /**
      *
      * @param {import('mineflayer').Bot} bot
+     * @param lastSlot
+     * @param maxTime
+     * @returns {Promise<void>}
+     */
+    waitLoadAllSlots: async (bot, lastSlot = 45, maxTime = 10000) => {
+        let time = 0
+        while((bot.currentWindow?.slots.slice(0, lastSlot).filter(el => el?.name).length !== lastSlot) && bot.smart.vars.work) {
+            await func.delay(30)
+            time += 30
+            if (time > maxTime) {
+                func.output("Превышено время ожидания появления слота!", undefined, "red", "bold")
+                return
+            }
+        }
+    },
+
+
+    /**
+     *
+     * @param {import('mineflayer').Bot} bot
      * @returns {Promise<void>}
      */
     openDM: async (bot) => {
@@ -55,11 +75,10 @@ const autoDM = {
                 parse = dm
 
                 window.click(bot, 49)
-                //func.output("Кликнул")
 
-                await func.delay(200)
-                await window.waitToSlot(bot, 49, "nether_star", 10000)
+                await func.delay(500)
 
+                await autoDM.waitLoadAllSlots(bot)
             }
             return restart.default(bot, "Окно закрылось ёпта")
         }
