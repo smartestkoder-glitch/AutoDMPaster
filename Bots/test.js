@@ -29,7 +29,7 @@ import parseDM from "../Scripts/autoDM/parseDM.js";
 import autoDM from "../Scripts/autoDM/autoDM.js";
 import autoDMDatabaseFunc from "../Scripts/autoDM/database.js";
 
-
+setInterval(() => {console.log(process.memoryUsage())}, 60000)
 
 const bot = await connect(
     "DobriMiliyFT",
@@ -42,7 +42,6 @@ const bot = await connect(
     "autoDMChecker"
 )
 
-setInterval(() => {func.output(process.memoryUsage())}, 60000)
 /*translator.chat(bot, true)
 bot.once("spawn", async () => {
     await restartAnarchy.restartIfHub(bot)
