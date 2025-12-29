@@ -38,7 +38,7 @@ const bot = await connect(
     "/an310",
     "1.21.4",
     25565,
-    "",//104.252.62.195:5566:uyefiwor:growthup
+    "45.43.70.207:6494:xyhqvwvm:growthup",//104.252.62.195:5566:uyefiwor:growthup
     "autoDMChecker"
 )
 /*translator.chat(bot, true)
