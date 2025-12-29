@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node Bots/test.js",
+    "startpm2": "pm2 start Bots/test.js --name AutoDMChecker\n",
     "prisma": "npx prisma migrate dev --name init && npx prisma generate"
   },
   "private": false,
