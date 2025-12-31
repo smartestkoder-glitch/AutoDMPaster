@@ -1,10 +1,12 @@
 generator client {
-  provider = "prisma-client-js"
-  output   = "../generated/prisma"
+  provider        = "prisma-client-js"
+  output          = "../generated/prisma"
+  previewFeatures = ["multiSchema"]
 }
 
 datasource db {
   provider = "postgresql"
+  schemas  = ["parsedm", "autosell"]
 }
 
 model Pages {
@@ -12,6 +14,8 @@ model Pages {
   time     DateTime @default(now())
   marketMy Int
   slots    Slots[]
+
+  @@schema("parsedm")
 }
 
 model Slots {
@@ -24,4 +28,15 @@ model Slots {
   dealer      String
   page        Pages   @relation(fields: [pageId], references: [id])
   pageId      Int
+
+  @@schema("parsedm")
+}
+
+model PriceConfig {
+  id        Int    @id @default(autoincrement())
+  itemName  String
+  priceSell Int
+  priceBuy  Int
+
+  @@schema("autosell")
 }
