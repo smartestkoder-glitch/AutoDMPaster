@@ -9,25 +9,18 @@ import {SocksClient as socks} from "socks";
  *
  * @param username
  * @param server
- * @param anarchy
- * @param anarchyRepait
- * @param version
  * @param port
- * @param proxy
- * @param script
+ * @param config
  * @returns {import('mineflayer').Bot}
  */
-async function connect(username, server, anarchy, anarchyRepait, version = "1.20.1", port = 25565, proxy = "", script = undefined) {
+async function connect(username, server, port, config = {}) {
 
 
     let connect = false
 
-    const dateNumber = new Date().getDate()
-    if (dateNumber > 250) return func.output("=-=-=-=-=-=-=-=-=-=-=\nЛицензия закончилась!\nЕсли она у вас есть - обновите библиотеку командой:\nnpm update threefuntimebots\nЕсли у вас нет лицензии - пососите хуй\n=-=-=-=-=-=-=-=-=-=-=", undefined, "red", "bold")
-    console.log("\n\n")
     func.output("Бот с ником " + username + " пытается подключается к серверу...", undefined, "white", "bold")
-    if (proxy) {
-        const proxyOpt = proxy.split(":");
+    if (config.proxy) {
+        const proxyOpt = config.proxy.split(":");
 
         connect = async (client) => {
             func.output('Попытка подключения к прокси...', undefined, "white", "bold");
@@ -61,7 +54,7 @@ async function connect(username, server, anarchy, anarchyRepait, version = "1.20
         host: server,
         port: port,
         username: username,
-        version: version,
+        version: config.version,
         connect: connect,
         hideErrors: true
     });
@@ -72,11 +65,11 @@ async function connect(username, server, anarchy, anarchyRepait, version = "1.20
             settings: {
                 username: username,
                 server: server,
-                version: version,
+                version: config.version,
                 port: port,
-                proxy: proxy,
-                anarchy: anarchy,
-                script: script,
+                proxy: config.proxy,
+                anarchy: config.anarchy,
+                script: config.script,
                 cdms: 7000
             },
 
@@ -103,7 +96,7 @@ async function connect(username, server, anarchy, anarchyRepait, version = "1.20
 
                 threeBot: {
                     clanInvest: 0,
-                    anarchyRepait: anarchyRepait
+                    anarchyRepait: config.anarchyRepait
                 },
                 nether_wart: {
                     dig_clicker: false,
@@ -120,7 +113,7 @@ async function connect(username, server, anarchy, anarchyRepait, version = "1.20
     bot.once("spawn", () => {
         func.output("Выполнение скрипта начато у бота с ником " + username + "\n\n", undefined, "white", "bold")
 
-        startEvent.allScripts(bot, script).catch((e) => {restart.default(bot, e)})
+        startEvent.allScripts(bot, config.script).catch((e) => {restart.default(bot, e)})
     })
 
 

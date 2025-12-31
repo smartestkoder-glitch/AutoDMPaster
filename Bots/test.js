@@ -29,17 +29,17 @@ import parseDM from "../Scripts/autoDM/parseDM.js";
 import autoDM from "../Scripts/autoDM/autoDM.js";
 import autoDMDatabaseFunc from "../Scripts/autoDM/database.js";
 
-setInterval(() => {console.log(process.memoryUsage())}, 60000)
+//setInterval(() => {console.log(process.memoryUsage())}, 60000)
 
 const bot = await connect(
     "DobriMiliyFT",
     "mc.funtime.su",
-    "/an310",
-    "/an310",
-    "1.21.4",
     25565,
-    "45.43.70.207:6494:xyhqvwvm:growthup",//104.252.62.195:5566:uyefiwor:growthup
-    "autoDMChecker"
+    {
+        anarchy: "/an310",
+        version: "1.21.4",
+        proxy: "45.43.70.207:6494:xyhqvwvm:growthup",//104.252.62.195:5566:uyefiwor:growthup
+        script: "autoDMChecker"}
 )
 
 /*translator.chat(bot, true)

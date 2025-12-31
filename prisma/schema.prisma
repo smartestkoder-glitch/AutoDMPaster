@@ -6,7 +6,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  schemas  = ["parsedm", "autosell"]
+  schemas  = ["parsedm", "autosell", "bots"]
 }
 
 model Pages {
@@ -39,4 +39,13 @@ model PriceConfig {
   priceBuy  Int
 
   @@schema("autosell")
+}
+
+model BotsConfig {
+  id       Int    @id @default(autoincrement())
+  nick     String
+  server   String
+  settings Json?
+
+  @@schema("bots")
 }
