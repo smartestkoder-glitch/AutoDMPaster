@@ -94,7 +94,6 @@ const window = {
      * @returns Promise
      */
     waitToSlot: async (bot, slot, item, maxWait = 5000) => {
-        if (!bot.smart.vars.work) return
 
         let wait = 0
         while (bot.currentWindow?.slots[slot]?.name !== item) {
@@ -102,8 +101,25 @@ const window = {
             await func.delay(10)
             wait += 10
         }
+        return true
         //window.click(bot, slot)
     },
+
+
+    /**
+     *
+     * @param {import('mineflayer').Bot} bot
+     * @returns {Promise<void>}
+     */
+    close: async (bot) => {
+        if (bot.currentWindow) bot.closeWindow(bot.currentWindow)
+        while (bot.currentWindow) {
+            await func.delay(50)
+        }
+
+    },
+
+
     /**
      * Ждать до открытия окна с определённым названием
      * @param bot
@@ -170,9 +186,10 @@ const window = {
      */
     getNameWindow: (bot) => {
         if (!bot.smart.vars.work) return
-
-        return JSON.parse(bot?.currentWindow?.title)?.text || JSON.parse(bot?.currentWindow?.title).extra?.map(obj => obj.text)?.join(' ')
+        return bot.currentWindow?.title?.value?.extra?.value?.value?.map(el => el.text?.value)?.join("")
     },
+
+
 
     swapItem: async (bot, slot1, slot2) => {
         if (!bot.smart.vars.work) return

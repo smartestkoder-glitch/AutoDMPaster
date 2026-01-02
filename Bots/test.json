@@ -1,0 +1,1912 @@
+{
+  team: 'Wolwikcik1A',
+  mode: 0,
+  name: { type: 'string', value: 'Wolwikcik1A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'Wolwikcik1' ]
+}
+{
+  team: 'dsfsdfsfaA',
+  mode: 0,
+  name: { type: 'string', value: 'dsfsdfsfaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'dsfsdfsfa' ]
+}
+{
+  team: 'Lexiks1234599A',
+  mode: 0,
+  name: { type: 'string', value: 'Lexiks1234599A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'Lexiks1234599' ]
+}
+{
+  team: 'REX_2010BROA',
+  mode: 0,
+  name: { type: 'string', value: 'REX_2010BROA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'REX_2010BRO' ]
+}
+{
+  team: 'AxijahruA',
+  mode: 0,
+  name: { type: 'string', value: 'AxijahruA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'Axijahru' ]
+}
+{
+  team: '0e2QWxsA',
+  mode: 0,
+  name: { type: 'string', value: '0e2QWxsA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ '0e2QWxs' ]
+}
+{
+  team: 'Xudy007A',
+  mode: 0,
+  name: { type: 'string', value: 'Xudy007A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'Xudy007' ]
+}
+{
+  team: 'NE3AVUCUMbiYx2A',
+  mode: 0,
+  name: { type: 'string', value: 'NE3AVUCUMbiYx2A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'NE3AVUCUMbiYx2' ]
+}
+{
+  team: 'Mikee_1A',
+  mode: 0,
+  name: { type: 'string', value: 'Mikee_1A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'Mikee_1' ]
+}
+{
+  team: 'prontas1A',
+  mode: 0,
+  name: { type: 'string', value: 'prontas1A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'prontas1' ]
+}
+{
+  team: 'WIN_MAJORA',
+  mode: 0,
+  name: { type: 'string', value: 'WIN_MAJORA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'WIN_MAJOR' ]
+}
+{
+  team: 'MalipusechkaIA',
+  mode: 0,
+  name: { type: 'string', value: 'MalipusechkaIA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'MalipusechkaI' ]
+}
+[13:13:30]Выполнение скрипта начато у бота с ником MalipusechkaI
+
+
+[13:13:30]СЕЙЧАС АЫВЛОЖШДПРОВКЩШАПЕРШЩЕГАРПОВАЛЕШРП
+{
+  team: 'WIN_MAJORA',
+  mode: 2,
+  name: { type: 'string', value: 'WIN_MAJORA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'WIN_MAJORA',
+  mode: 2,
+  name: { type: 'string', value: 'WIN_MAJORA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'MalipusechkaIA',
+  mode: 2,
+  name: { type: 'string', value: 'MalipusechkaIA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'MalipusechkaIA',
+  mode: 2,
+  name: { type: 'string', value: 'MalipusechkaIA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'Lexiks1234599A',
+  mode: 2,
+  name: { type: 'string', value: 'Lexiks1234599A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'Lexiks1234599A',
+  mode: 2,
+  name: { type: 'string', value: 'Lexiks1234599A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'dsfsdfsfaA',
+  mode: 2,
+  name: { type: 'string', value: 'dsfsdfsfaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'dsfsdfsfaA',
+  mode: 2,
+  name: { type: 'string', value: 'dsfsdfsfaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'CIT-3b01930b1b2c',
+  mode: 0,
+  name: { type: 'string', value: 'CIT-3b01930b1b2c' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'anarchy' ]
+}
+{
+  team: 'CIT-2c4b7b7df822',
+  mode: 0,
+  name: { type: 'string', value: 'CIT-2c4b7b7df822' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'anarchy121' ]
+}
+{
+  team: 'CIT-2c4b7b7df822',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-2c4b7b7df822' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'CIT-3b01930b1b2c',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-3b01930b1b2c' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'chosha123A',
+  mode: 0,
+  name: { type: 'string', value: 'chosha123A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: [ 'chosha123' ]
+}
+{
+  team: 'WIN_MAJORA',
+  mode: 1,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: undefined
+}
+{
+  team: 'chosha123A',
+  mode: 2,
+  name: { type: 'string', value: 'chosha123A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'chosha123A',
+  mode: 2,
+  name: { type: 'string', value: 'chosha123A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'Lexiks1234599A',
+  mode: 1,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: undefined
+}
+{
+  team: 'CIT-2c4b7b7df822',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-2c4b7b7df822' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'CIT-3b01930b1b2c',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-3b01930b1b2c' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'REX_2010BROA',
+  mode: 1,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: undefined
+}
+{
+  team: 'CIT-2c4b7b7df822',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-2c4b7b7df822' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'CIT-3b01930b1b2c',
+  mode: 2,
+  name: { type: 'string', value: 'CIT-3b01930b1b2c' },
+  friendlyFire: 3,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: undefined
+}
+{
+  team: 'TAB-Sidebar-1',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-1' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§1§r' ]
+}
+{
+  team: 'TAB-Sidebar-2',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-2' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§2§r' ]
+}
+{
+  team: 'TAB-Sidebar-3',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-3' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§3§r' ]
+}
+{
+  team: 'TAB-Sidebar-4',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-4' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§4§r' ]
+}
+{
+  team: 'TAB-Sidebar-5',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-5' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§5§r' ]
+}
+{
+  team: 'TAB-Sidebar-6',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-6' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§6§r' ]
+}
+{
+  team: 'TAB-Sidebar-7',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-7' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§7§r' ]
+}
+{
+  team: 'TAB-Sidebar-8',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-8' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§8§r' ]
+}
+{
+  team: 'TAB-Sidebar-9',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-9' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§0§9§r' ]
+}
+{
+  team: 'TAB-Sidebar-10',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-10' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§1§0§r' ]
+}
+{
+  team: 'TAB-Sidebar-11',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-11' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§1§1§r' ]
+}
+{
+  team: 'TAB-Sidebar-12',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-12' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§1§2§r' ]
+}
+{
+  team: 'TAB-Sidebar-13',
+  mode: 0,
+  name: { type: 'string', value: 'TAB-Sidebar-13' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 21,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: '' },
+  players: [ '§1§3§r' ]
+}
+{
+  team: '9>azik0707325A',
+  mode: 0,
+  name: { type: 'string', value: '9>azik0707325A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'azik0707325' ]
+}
+{
+  team: '9Ei_love_SONEX2A',
+  mode: 0,
+  name: { type: 'string', value: '9Ei_love_SONEX2A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'i_love_SONEX2222' ]
+}
+{
+  team: '9ESigmo4ka42__A',
+  mode: 0,
+  name: { type: 'string', value: '9ESigmo4ka42__A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Sigmo4ka42__' ]
+}
+{
+  team: '9Epopa_pidorasaA',
+  mode: 0,
+  name: { type: 'string', value: '9Epopa_pidorasaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'popa_pidorasa4' ]
+}
+{
+  team: '9ESigmo4ka42__4A',
+  mode: 0,
+  name: { type: 'string', value: '9ESigmo4ka42__4A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Sigmo4ka42__42' ]
+}
+{
+  team: '9;0g_TuMyP63A',
+  mode: 0,
+  name: { type: 'string', value: '9;0g_TuMyP63A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§7⚡ §7Князь §f' },
+  suffix: { type: 'string', value: ' §70iq' },
+  players: [ '0g_TuMyP63' ]
+}
+{
+  team: '9;kisham0A',
+  mode: 0,
+  name: { type: 'string', value: '9;kisham0A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'kisham0' ]
+}
+{
+  team: '9EqwetoryA',
+  mode: 0,
+  name: { type: 'string', value: '9EqwetoryA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'qwetory' ]
+}
+{
+  team: '9Edeopen69A',
+  mode: 0,
+  name: { type: 'string', value: '9Edeopen69A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'deopen69' ]
+}
+{
+  team: '9EKoxiqodA',
+  mode: 0,
+  name: { type: 'string', value: '9EKoxiqodA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Koxiqod' ]
+}
+{
+  team: '9EbrokylpvpA',
+  mode: 0,
+  name: { type: 'string', value: '9EbrokylpvpA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'brokylpvp' ]
+}
+{
+  team: '9;XaynaA',
+  mode: 0,
+  name: { type: 'string', value: '9;XaynaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Xayna' ]
+}
+{
+  team: '9ELelryepicA',
+  mode: 0,
+  name: { type: 'string', value: '9ELelryepicA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Lelryepic' ]
+}
+{
+  team: '9EKinDo_you_A',
+  mode: 0,
+  name: { type: 'string', value: '9EKinDo_you_A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'KinDo_you_' ]
+}
+{
+  team: '9E10CAm7TVDoQdYA',
+  mode: 0,
+  name: { type: 'string', value: '9E10CAm7TVDoQdYA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ '10CAm7TVDoQdYJ' ]
+}
+{
+  team: '9EHelen0414A',
+  mode: 0,
+  name: { type: 'string', value: '9EHelen0414A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Helen0414' ]
+}
+{
+  team: '9CBlu2820A',
+  mode: 0,
+  name: { type: 'string', value: '9CBlu2820A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Blu2820' ]
+}
+{
+  team: '9;masik_omgA',
+  mode: 0,
+  name: { type: 'string', value: '9;masik_omgA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'masik_omg' ]
+}
+{
+  team: '9;kapyt228A',
+  mode: 0,
+  name: { type: 'string', value: '9;kapyt228A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'kapyt228' ]
+}
+{
+  team: '9;sqweeze_ezA',
+  mode: 0,
+  name: { type: 'string', value: '9;sqweeze_ezA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'sqweeze_ez' ]
+}
+{
+  team: '9Eezjovufas5A',
+  mode: 0,
+  name: { type: 'string', value: '9Eezjovufas5A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'ezjovufas5' ]
+}
+{
+  team: '9EminhikkwA',
+  mode: 0,
+  name: { type: 'string', value: '9EminhikkwA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'minhikkw' ]
+}
+{
+  team: '9Epopkorner228A',
+  mode: 0,
+  name: { type: 'string', value: '9Epopkorner228A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'popkorner228' ]
+}
+{
+  team: '9:q4eJIoBeKpA',
+  mode: 0,
+  name: { type: 'string', value: '9:q4eJIoBeKpA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §d' },
+  players: [ 'q4eJIoBeKp' ]
+}
+{
+  team: '9Escrscrscr0182A',
+  mode: 0,
+  name: { type: 'string', value: '9Escrscrscr0182A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'scrscrscr01828' ]
+}
+{
+  team: '9=NatyralEgorA',
+  mode: 0,
+  name: { type: 'string', value: '9=NatyralEgorA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'NatyralEgor' ]
+}
+{
+  team: '9<zxc_dimhaA',
+  mode: 0,
+  name: { type: 'string', value: '9<zxc_dimhaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §7БДСМ' },
+  players: [ 'zxc_dimha' ]
+}
+{
+  team: '9;Lamux52A',
+  mode: 0,
+  name: { type: 'string', value: '9;Lamux52A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §cДаун' },
+  players: [ 'Lamux52' ]
+}
+{
+  team: '9Ebubenchik1337A',
+  mode: 0,
+  name: { type: 'string', value: '9Ebubenchik1337A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'bubenchik1337' ]
+}
+{
+  team: '9EDog3467MineCrA',
+  mode: 0,
+  name: { type: 'string', value: '9EDog3467MineCrA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Dog3467MineCraft' ]
+}
+{
+  team: '9EsamwqqA',
+  mode: 0,
+  name: { type: 'string', value: '9EsamwqqA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'samwqq' ]
+}
+{
+  team: '9>rip_mikiggA',
+  mode: 0,
+  name: { type: 'string', value: '9>rip_mikiggA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'rip_mikigg' ]
+}
+{
+  team: '9EDustariimoumaA',
+  mode: 0,
+  name: { type: 'string', value: '9EDustariimoumaA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Dustariimouma' ]
+}
+{
+  team: '9>xFearOfGodA',
+  mode: 0,
+  name: { type: 'string', value: '9>xFearOfGodA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'xFearOfGod' ]
+}
+{
+  team: '9;missclickmomeA',
+  mode: 0,
+  name: { type: 'string', value: '9;missclickmomeA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §60iq' },
+  players: [ 'missclickmoment' ]
+}
+{
+  team: '9EAfoyresA',
+  mode: 0,
+  name: { type: 'string', value: '9EAfoyresA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Afoyres' ]
+}
+{
+  team: '9=_dvain_dbA',
+  mode: 0,
+  name: { type: 'string', value: '9=_dvain_dbA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ '_dvain_db' ]
+}
+{
+  team: '9;eranub123A',
+  mode: 0,
+  name: { type: 'string', value: '9;eranub123A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§r⚡ §rТитан §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'eranub123' ]
+}
+{
+  team: '9EkanistluhA',
+  mode: 0,
+  name: { type: 'string', value: '9EkanistluhA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'kanistluh' ]
+}
+{
+  team: '9EzoxoxkzozA',
+  mode: 0,
+  name: { type: 'string', value: '9EzoxoxkzozA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'zoxoxkzoz' ]
+}
+{
+  team: '9Cflys1tsA',
+  mode: 0,
+  name: { type: 'string', value: '9Cflys1tsA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'flys1ts' ]
+}
+{
+  team: '9EDobriMiliyFTA',
+  mode: 0,
+  name: { type: 'string', value: '9EDobriMiliyFTA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'DobriMiliyFT' ]
+}
+{
+  team: '9<ANASHA88A',
+  mode: 0,
+  name: { type: 'string', value: '9<ANASHA88A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'ANASHA88' ]
+}
+{
+  team: '9EPulsar92A',
+  mode: 0,
+  name: { type: 'string', value: '9EPulsar92A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §7' },
+  players: [ 'Pulsar92' ]
+}
+{
+  team: '9Ekamar226A',
+  mode: 0,
+  name: { type: 'string', value: '9Ekamar226A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'kamar226' ]
+}
+{
+  team: '9BNeckwicA',
+  mode: 0,
+  name: { type: 'string', value: '9BNeckwicA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Neckwic' ]
+}
+{
+  team: '9Ex179A',
+  mode: 0,
+  name: { type: 'string', value: '9Ex179A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'x179' ]
+}
+{
+  team: '9EneGarou42A',
+  mode: 0,
+  name: { type: 'string', value: '9EneGarou42A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'neGarou42' ]
+}
+{
+  team: '9:smarthimikA',
+  mode: 0,
+  name: { type: 'string', value: '9:smarthimikA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §0ЧСВ!' },
+  players: [ 'smarthimik' ]
+}
+{
+  team: '9EHotuLaohrwA',
+  mode: 0,
+  name: { type: 'string', value: '9EHotuLaohrwA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'HotuLaohrw' ]
+}
+{
+  team: '9;q4eJloBeKpA',
+  mode: 0,
+  name: { type: 'string', value: '9;q4eJloBeKpA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'q4eJloBeKp' ]
+}
+{
+  team: '9ExubixaqivawoA',
+  mode: 0,
+  name: { type: 'string', value: '9ExubixaqivawoA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'xubixaqivawo' ]
+}
+{
+  team: '9EeturntrdgodA',
+  mode: 0,
+  name: { type: 'string', value: '9EeturntrdgodA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'eturntrdgod' ]
+}
+{
+  team: '9<foxic_228A',
+  mode: 0,
+  name: { type: 'string', value: '9<foxic_228A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'foxic_228' ]
+}
+{
+  team: '9EIferium2A',
+  mode: 0,
+  name: { type: 'string', value: '9EIferium2A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Iferium2' ]
+}
+{
+  team: '9ENazzyLOXA',
+  mode: 0,
+  name: { type: 'string', value: '9ENazzyLOXA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'NazzyLOX' ]
+}
+{
+  team: '9ESUICIDAINIPONA',
+  mode: 0,
+  name: { type: 'string', value: '9ESUICIDAINIPONA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'SUICIDAINIPON' ]
+}
+{
+  team: '9EVenomCore44A',
+  mode: 0,
+  name: { type: 'string', value: '9EVenomCore44A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'VenomCore44' ]
+}
+{
+  team: '9ATTkanalfinikA',
+  mode: 0,
+  name: { type: 'string', value: '9ATTkanalfinikA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'TTkanalfinik' ]
+}
+{
+  team: '9EKlqwiqwiassA',
+  mode: 0,
+  name: { type: 'string', value: '9EKlqwiqwiassA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Klqwiqwiass' ]
+}
+{
+  team: '9;hopasssA',
+  mode: 0,
+  name: { type: 'string', value: '9;hopasssA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§r⚡ §rКнязь §f' },
+  suffix: { type: 'string', value: ' §1Кек' },
+  players: [ 'hopasss' ]
+}
+{
+  team: '9;weightlessnesA',
+  mode: 0,
+  name: { type: 'string', value: '9;weightlessnesA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§r⚡ §rКнязь §f' },
+  suffix: { type: 'string', value: ' §8БДСМ' },
+  players: [ 'weightlessness' ]
+}
+{
+  team: '9;Influsy_UltimA',
+  mode: 0,
+  name: { type: 'string', value: '9;Influsy_UltimA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Influsy_Ultimate' ]
+}
+{
+  team: '9EKortadjA',
+  mode: 0,
+  name: { type: 'string', value: '9EKortadjA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Kortadj' ]
+}
+{
+  team: '9ELavili7A',
+  mode: 0,
+  name: { type: 'string', value: '9ELavili7A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'Lavili7' ]
+}
+{
+  team: '9;93_sosatA',
+  mode: 0,
+  name: { type: 'string', value: '9;93_sosatA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §0ЧСВ!' },
+  players: [ '93_sosat' ]
+}
+{
+  team: '9@_noname_1782A',
+  mode: 0,
+  name: { type: 'string', value: '9@_noname_1782A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: {
+    type: 'compound',
+    value: { extra: [Object], text: [Object], italic: [Object] }
+  },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ '_noname_1782' ]
+}
+{
+  team: '9Ebek77A',
+  mode: 0,
+  name: { type: 'string', value: '9Ebek77A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' §r' },
+  players: [ 'bek77' ]
+}
+{
+  team: '9;MaksimPro337A',
+  mode: 0,
+  name: { type: 'string', value: '9;MaksimPro337A' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§r⚡ §rИгрок §f' },
+  suffix: { type: 'string', value: ' §rЗло' },
+  players: [ 'MaksimPro337' ]
+}
+{
+  team: '9EMalipusechkaIA',
+  mode: 0,
+  name: { type: 'string', value: '9EMalipusechkaIA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' ' },
+  players: [ 'MalipusechkaI' ]
+}
+{
+  team: 'npc_team_203',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_203',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '203' ]
+}
+{
+  team: 'npc_team_204',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_204',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '9e562944-3832-496d-8c86-e751460825d6' ]
+}
+{
+  team: 'npc_team_205',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_205',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '43a487b6-c00d-48f4-969e-4f2e98861ee3' ]
+}
+{
+  team: 'npc_team_224',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_224',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '224' ]
+}
+{
+  team: 'npc_team_206',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_206',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '05e2a70c-3697-4ee8-9506-3c7d16538612' ]
+}
+{
+  team: 'npc_team_225',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_226',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_225',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ 'd6c354b9-d065-489d-ade5-269e3dfa7bbf' ]
+}
+{
+  team: 'npc_team_226',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ 'a02a70c3-e80c-40cd-8cde-35ced2c1756d' ]
+}
+{
+  team: 'npc_team_255',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_255',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ '255' ]
+}
+{
+  team: 'npc_team_256',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_256',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ 'da024a64-e60e-4395-86f7-9562bd93b996' ]
+}
+{
+  team: 'npc_team_257',
+  mode: 0,
+  name: { type: 'string', value: ' ' },
+  friendlyFire: 0,
+  nameTagVisibility: 'never',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '' },
+  suffix: { type: 'string', value: '' },
+  players: []
+}
+{
+  team: 'npc_team_257',
+  mode: 3,
+  name: undefined,
+  friendlyFire: undefined,
+  nameTagVisibility: undefined,
+  collisionRule: undefined,
+  formatting: undefined,
+  prefix: undefined,
+  suffix: undefined,
+  players: [ 'a58b5f4f-5d17-4846-a516-d049a7bbdbf6' ]
+}
+{
+  team: '9EMalipusechkaIA',
+  mode: 2,
+  name: { type: 'string', value: '9EMalipusechkaIA' },
+  friendlyFire: 0,
+  nameTagVisibility: 'always',
+  collisionRule: 'never',
+  formatting: 15,
+  prefix: { type: 'string', value: '§c⚡ §f' },
+  suffix: { type: 'string', value: ' ' },
+  players: undefined
+}
+[ЧАТ]** ! Внимание !
+** Чтобы ваш Аккаунт был в БЕЗОПАСНОСТИ!
+** Привяжите его к ВК: /vk
+** Или к Телеграм: /tg
+
+** ! Внимание !
+** Чтобы ваш Аккаунт был в БЕЗОПАСНОСТИ!
+** Привяжите его к ВК: /vk
+** Или к Телеграм: /tg
+{
+team: 'TAB-Sidebar-5',
+mode: 2,
+name: { type: 'string', value: 'TAB-Sidebar-5' },
+friendlyFire: 0,
+nameTagVisibility: 'never',
+collisionRule: 'never',
+formatting: 21,
+prefix: {
+type: 'compound',
+value: { extra: [Object], text: [Object], italic: [Object] }
+},
+suffix: { type: 'string', value: '' },
+players: undefined
+}
+{
+team: 'TAB-Sidebar-4',
+mode: 2,
+name: { type: 'string', value: 'TAB-Sidebar-4' },
+friendlyFire: 0,
+nameTagVisibility: 'never',
+collisionRule: 'never',
+formatting: 21,
+prefix: {
+type: 'compound',
+value: { extra: [Object], text: [Object], italic: [Object] }
+},
+suffix: { type: 'string', value: '' },
+players: undefined
+}
+{
+team: 'TAB-Sidebar-3',
+mode: 2,
+name: { type: 'string', value: 'TAB-Sidebar-3' },
+friendlyFire: 0,
+nameTagVisibility: 'never',
+collisionRule: 'never',
+formatting: 21,
+prefix: {
+type: 'compound',
+value: { extra: [Object], text: [Object], italic: [Object] }
+},
+suffix: { type: 'string', value: '' },
+players: undefined
+}
+{
+team: '9EMalipusechkaIA',
+mode: 2,
+name: { type: 'string', value: '9EMalipusechkaIA' },
+friendlyFire: 0,
+nameTagVisibility: 'always',
+collisionRule: 'never',
+formatting: 15,
+prefix: { type: 'string', value: '§c⚡ §f' },
+suffix: { type: 'string', value: ' §r' },
+players: undefined
+}
+{
+team: '9;sqweeze_ezA',
+mode: 1,
+name: undefined,
+friendlyFire: undefined,
+nameTagVisibility: undefined,
+collisionRule: undefined,
+formatting: undefined,
+prefix: undefined,
+suffix: undefined,
+players: undefined
+}
+{
+team: '9Epulsik24A',
+mode: 0,
+name: { type: 'string', value: '9Epulsik24A' },
+friendlyFire: 0,
+nameTagVisibility: 'always',
+collisionRule: 'never',
+formatting: 15,
+prefix: { type: 'string', value: '§c⚡ §f' },
+suffix: { type: 'string', value: ' ' },
+players: [ 'pulsik24' ]
+}
+{
+team: '9EPulsar92A',
+mode: 1,
+name: undefined,
+friendlyFire: undefined,
+nameTagVisibility: undefined,
+collisionRule: undefined,
+formatting: undefined,
+prefix: undefined,
+suffix: undefined,
+players: undefined
+}
+{
+team: '9Epulsik24A',
+mode: 2,
+name: { type: 'string', value: '9Epulsik24A' },
+friendlyFire: 0,
+nameTagVisibility: 'always',
+collisionRule: 'never',
+formatting: 15,
+prefix: { type: 'string', value: '§c⚡ §f' },
+suffix: { type: 'string', value: ' ' },
+players: undefined
+}
+{
+team: '9Epulsik24A',
+mode: 2,
+name: { type: 'string', value: '9Epulsik24A' },
+friendlyFire: 0,
+nameTagVisibility: 'always',
+collisionRule: 'never',
+formatting: 15,
+prefix: { type: 'string', value: '§c⚡ §f' },
+suffix: { type: 'string', value: ' §r' },
+players: undefined
+}
+{
+team: '9=_dvain_dbA',
+mode: 1,
+name: undefined,
+friendlyFire: undefined,
+nameTagVisibility: undefined,
+collisionRule: undefined,
+formatting: undefined,
+prefix: undefined,
+suffix: undefined,
+players: undefined
+}

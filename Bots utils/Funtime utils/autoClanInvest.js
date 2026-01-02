@@ -2,14 +2,7 @@ import func from "../../Bots utils/function.js"
 
 const autoClanInvest = {
 
-    moneyUpdateEvent: (bot) => {
-        bot._client.on("teams", (packet) => {
-            const money = Number(packet?.prefix?.value?.extra?.value?.value[4]?.text?.value)
-            if (!money) return
-            bot.smart.vars.money.balance = money
 
-        })
-    },
 
     investIfHave: async (bot) => {
         if (!bot.smart.vars.work) return

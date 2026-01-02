@@ -65,8 +65,11 @@ const inventory = {
     getSlotEmpty: (slots, fslot = 9, lslot = 45) => {
         if (!slots) return func.output("Спас от ошибки, саня молодец")
 
+        slots = slots.slice(fslot, lslot + 1)
 
-        return slots.slice(fslot, lslot+1).find(slot => slot?.name === undefined) === null
+        for (let i = 0; i < slots.length; i++) {
+            if (!slots[i]?.name) return i + fslot
+        }
     },
 
     /**

@@ -3,6 +3,8 @@ import func from "./function.js"
 import restart from "../Bots utils/Funtime utils/restart.js"
 import startEvent from "./startEvent.js"
 import {SocksClient as socks} from "socks";
+import moneyFT from "./Funtime utils/moneyFT.js";
+import donate from "./Funtime utils/detectDonate.js";
 
 
 /**
@@ -73,6 +75,8 @@ async function connect(username, server, port, config = {}) {
                 cdms: 7000
             },
 
+            donate: "",
+
             money: {
                 balance: 0,
                 clan: 0,
@@ -104,10 +108,21 @@ async function connect(username, server, port, config = {}) {
                     last_coords_break: -10000,
                     last_coords_place: -10000,
                     restack: false
+                },
+
+                autoSell: {
+                    lastResellMin: -1,
+                    lastResellSec: -1
                 }
             }
         }
     }
+
+    //Спец вызовы, потом перенести!!!
+    moneyFT.moneyUpdateEvent(bot)
+    donate.startDetect(bot)
+    //!!!
+
     func.output("Бот с ником " + username + " успешно подключен к серверу", undefined, "white", "bold")
 
     bot.once("spawn", () => {
